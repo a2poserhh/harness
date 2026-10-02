@@ -1,0 +1,2 @@
+{"model": "fake", "prompt": "heyy", "response": "Fake model received: heyy", "elapsed_seconds": 8.166000043274835e-06}
+{"model": "fake", "prompt": "test 2", "response": "Fake model received: test 2", "elapsed_seconds": 4.564000846585259e-06}
